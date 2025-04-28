@@ -2,7 +2,7 @@
 # Hackathon 2025 - Birincilik Projesi: AI-Based-Object-Detection-for-Manufacturing-Efficiency
 
 Bu proje, **Nevşehir'de** yoğun olarak üretilen patateslerin insan eliyle ayıklanması sürecinden **yapay zeka destekli otomatik ayıklama** sistemine geçiş amacıyla geliştirilmiştir.  
-[Hackathon Adı] kapsamında geliştirilmiş ve **birincilik ödülü** kazanmıştır.
+[AI-Based-Object-Detection-for-Manufacturing-Efficiency] kapsamında geliştirilmiş ve **birincilik ödülü** kazanmıştır.
 
 ## Proje Hakkında
 
@@ -31,7 +31,7 @@ Projede, konveyör bantlardan gelen patateslerin üzerinde bulunan çürükleri 
 Projeyi bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/KULLANICIADIN/REPO-ADIN.git
+git clone https://github.com/Swoonx/AI-Based-Object-Detection-for-Manufacturing-Efficiency.git
 
 # Hackathon 2025 - First Prize Project: AI-Based-Object-Detection-for-Manufacturing-Efficiency
 
@@ -65,4 +65,4 @@ Main stages of the project:
 Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
+git clone https://github.com/Swoonx/AI-Based-Object-Detection-for-Manufacturing-Efficiency.git
