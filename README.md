@@ -26,14 +26,7 @@ Projede, konveyör bantlardan gelen patateslerin üzerinde bulunan çürükleri 
 - **Unreal Engine** (Proje animasyonu ve sunumu)
 - **Makine Öğrenmesi / Görüntü İşleme** (Çürük patates tespiti)
 
-## Kurulum ve Çalıştırma
-
-Projeyi bilgisayarınıza klonlayın:
-
-```bash
-git clone https://github.com/Swoonx/AI-Based-Object-Detection-for-Manufacturing-Efficiency.git
-
-# Hackathon 2025 - First Prize Project: AI-Based-Object-Detection-for-Manufacturing-Efficiency
+  # Hackathon 2025 - First Prize Project: AI-Based-Object-Detection-for-Manufacturing-Efficiency
 
 This project was developed to transition from manual sorting of potatoes, which are heavily produced in **Nevşehir**, to an **AI-powered automatic sorting system**.  
 It was created as part of [AI-Based-Object-Detection-for-Manufacturing-Efficiency] and won the **first prize**.
@@ -66,3 +59,6 @@ Clone the project to your local machine:
 
 ```bash
 git clone https://github.com/Swoonx/AI-Based-Object-Detection-for-Manufacturing-Efficiency.git
+
+
+
